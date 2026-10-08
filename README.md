@@ -38,6 +38,9 @@ I'm currently expanding my creative background into software engineering, with a
 **Hacker Simulator**  
 An interactive Python-based simulation inspired by command-line hacking environments.
 
+**Dark Kingdom**  
+A text-based RPG adventure in Python — choose your character, battle through the Dark Forest, and take down the Dark King.
+
 **Game of Thrones Text Adventure**  
 A Python text-based adventure game demonstrating interactive programming and decision-based gameplay.
 
